@@ -31,6 +31,8 @@ Contiene:
 * Fecha de inicio: Agosto de 2018
 * Fecha de consolidación final Abril 17 de 2024
 * Desarrollado por Fabián Baena (fabian.baena@udea.edu.co)
-* Asesores:
+* Directores:
   + Yonny Fernando Ceballos (yony.ceballos@udea.edu.co)
   + Julián Andrés Castillo Grisales (jandres.castillo@udea.edu.co)
+* Asesora:
+  + Ana María Tangarife Patiño (ana.tangarife@udea.edu.co)
